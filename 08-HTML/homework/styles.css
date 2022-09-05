@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-borroso-oscuro-abstracto-color-textura-degradado-suave-patron-sitio-web-brillante-encabezado-banner-o-imagen-arte-grafico-barra-lateral_1258-85459.jpg?w=360);
+    background-repeat: no repeat;
+    background-size: 100% 100%;
+    color: #FFFFFF;
+}
+h1{
+    color: rgb(66, 138, 114);
+}
+img{
+    width: 400px;
+}
+#thirdDiv {
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    width: 500px;   
+    background-color: cadetblue;
+    padding: 50px;  
+    border: 50px solid rgb(23, 114, 150); 
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+} 
+.divClass{ 
+    text-align:center;      
+}
